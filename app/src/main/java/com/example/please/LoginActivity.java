@@ -35,6 +35,7 @@ public class LoginActivity extends AppCompatActivity {
         findViewById(R.id.loginButton).setOnClickListener(onClickListener);
 
 
+        
     }
 
     @Override
